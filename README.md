@@ -1,8 +1,6 @@
 ## Hi there 👋
 - 🎓  I'm a Master's student at the Technical University of Munich (TUM)
 
-- 🏢 I'm currently working as a research intern at BMW Group focusing on CV & DL in car developing
-
 <!--
 **PhilipsDeng/PhilipsDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
